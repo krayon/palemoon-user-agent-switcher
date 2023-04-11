@@ -4,9 +4,20 @@
 The User Agent Switcher extension adds a menu and a toolbar button to switch
 the user agent of a browser.
 
-The extension is available for Firefox before version 57, and will run on any
-platform that this browser supports including Windows, OS X and
+The extension is available for Palemoon (and Firefox before version 57), and
+will run on any platform that this browser supports including Windows, OS X and
 Linux.
+
+The extension can be installed from the releases page:
+
+* https://github.com/krayon/palemoon-user-agent-switcher/releases
+
+## Help
+-------
+
+Help for the User Agent Switcher extension can be found on its home page:
+
+* Known issues: https://github.com/krayon/palemoon-user-agent-switcher/issues
 
 ## Building
 -----------
